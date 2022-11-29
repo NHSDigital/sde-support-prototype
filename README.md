@@ -1,11 +1,5 @@
 # sde-support-prototype
 
-## Contents
-
-1. Description
-2. Installation
-3. License
-
 ## Description
 
 A prototype for a support site for the Access and analyse health data service (also known as [Secure Data Environment service](https://digital.nhs.uk/services/secure-data-environment-service)).
@@ -21,4 +15,4 @@ A prototype for a support site for the Access and analyse health data service (a
 
 ## License
 
-MIT License. Copyright (c) 2022 NHS Digital. See [LICENSE](../LICENSE) for more information.
+MIT License. Copyright (c) 2022 NHS Digital. See [LICENSE](/LICENSE) for more information.
